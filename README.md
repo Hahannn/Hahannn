@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Farhan Faiz Nugroho</h1>
-<h3 align="center">A System Information student</h3>
+<h1 align="center">Hi 👋, I'm HAN </h1>
+<h5 align="center">A System Information student</h5>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/hanjynx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanjynx" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/2.kangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.kangg" height="30" width="40" /></a>
 </p>
 
