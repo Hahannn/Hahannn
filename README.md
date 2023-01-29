@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm HAN </h2>
-<h4 align="center"> Information Systems student </h4>
+<h4 align="center"> First year Information Systems student </h4>
 
 <h3 align="left">Connect with me:</h3>
 
